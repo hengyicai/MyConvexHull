@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\MyConvexHull\MyConvexHull\bin\Debug\MyConvexHull.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyConvexHull\MyConvexHull\bin\Debug\MyConvexHull.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyConvexHull\MyConvexHull\bin\Debug\MyConvexHull.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyConvexHull\MyConvexHull\obj\Debug\MyConvexHull.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyConvexHull\MyConvexHull\obj\Debug\MyConvexHull.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyConvexHull\MyConvexHull\obj\Debug\MyConvexHull.pdb
